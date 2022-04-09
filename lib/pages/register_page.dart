@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:login_excercise_2/widgets/background_image.dart';
-import 'package:login_excercise_2/widgets/button_with_icon.dart';
-import 'package:login_excercise_2/widgets/text_fields.dart';
 
+import '../widgets/mutli_page_functions.dart';
 class RegisterPage extends StatelessWidget {
   const RegisterPage({Key? key}) : super(key: key);
 
